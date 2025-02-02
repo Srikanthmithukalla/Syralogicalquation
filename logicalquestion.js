@@ -1,4 +1,4 @@
-// 2. Grouping by Distance (Efficient)
+
 function allCellsDistOrder_Group(rows, cols, rCenter, cCenter) {
     const distances = {};
     for (let r = 0; r < rows; r++) {
